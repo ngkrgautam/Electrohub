@@ -30,4 +30,7 @@ Optimize pricing and discount strategies.
 
 Track regional growth opportunities.
 
+##Screenshot of dashboard 
+Example: ![Dashboard Preview].https://github.com/ngkrgautam/Electrohub/blob/main/snapshot%20of%20dashboard.png
+
 Support data-driven decision-making through interactive and dynamic visuals.
